@@ -1,0 +1,236 @@
+[
+  {
+    "__type__": "cc.LabelAtlas",
+    "_name": "SmallRed",
+    "spriteFrame": {
+      "__uuid__": "56NkgUW+FGl4BWmFgzZ/py"
+    },
+    "fontSize": 82.72,
+    "_fntConfig": {
+      "commonHeight": 94,
+      "fontSize": 82,
+      "atlasName": "num_fontsmallred",
+      "fontDefDictionary": {
+        "47": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "48": {
+          "rect": {
+            "x": 76,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "49": {
+          "rect": {
+            "x": 152,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "50": {
+          "rect": {
+            "x": 228,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "51": {
+          "rect": {
+            "x": 304,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "52": {
+          "rect": {
+            "x": 380,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "53": {
+          "rect": {
+            "x": 456,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "54": {
+          "rect": {
+            "x": 532,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "55": {
+          "rect": {
+            "x": 608,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "56": {
+          "rect": {
+            "x": 684,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        },
+        "57": {
+          "rect": {
+            "x": 760,
+            "y": 0,
+            "width": 76,
+            "height": 94
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 76
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "num_fontsmallred",
+      "texture": "b9h+8aQ0hC2a4Ca4kHJYK+",
+      "rect": [
+        0,
+        1,
+        829,
+        93
+      ],
+      "offset": [
+        -3.5,
+        -0.5
+      ],
+      "originalSize": [
+        836,
+        94
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "SubScoreLabel",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "SubScoreLabel",
+      "_level": 1,
+      "_components": [
+        {
+          "__id__": 2
+        },
+        {
+          "__type__": "63782W3hqJOj5tpO+PG+bef",
+          "node": {
+            "__id__": 1
+          },
+          "Score": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "db4qmvjL5HzpqKON3N4Gz1"
+        },
+        "fileId": "56H5lt9JdCdq9C4vrD10HR"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 407.8,
+        "height": 19.51
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -129
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_skewX": 20,
+      "groupIndex": 1
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 1
+      },
+      "_useOriginalSize": false,
+      "_string": "/1234567890",
+      "_N$string": "/1234567890",
+      "_N$file": {
+        "__uuid__": "01yB87kHZKZYKH9gc2kEeO"
+      },
+      "_isSystemFontUsed": false,
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    }
+  ]
+]

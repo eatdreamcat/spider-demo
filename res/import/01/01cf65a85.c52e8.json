@@ -1,0 +1,68 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_back",
+      "texture": "5fyVUdR9hOnaPU47wXmYCY",
+      "rect": [
+        0,
+        0,
+        153,
+        160
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        153,
+        160
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_backgray",
+      "texture": "5fyVUdR9hOnaPU47wXmYCY",
+      "rect": [
+        153,
+        0,
+        153,
+        160
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        153,
+        160
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "back_btn.plist",
+    "_spriteFrames": {
+      "btn_back": {
+        "__uuid__": "250vwMZtlGc7T9e8D14q0x"
+      },
+      "btn_backgray": {
+        "__uuid__": "4cCpyvrNBLtoZGj+8n5NWT"
+      }
+    }
+  }
+]

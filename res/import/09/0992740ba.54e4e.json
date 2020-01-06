@@ -1,0 +1,68 @@
+[
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "button.plist",
+    "_spriteFrames": {
+      "btn_new": {
+        "__uuid__": "f1W7rXuGdBga+0o4zTS9ZI"
+      },
+      "new_close": {
+        "__uuid__": "6cfU27eq5HZZizWYzcbpT8"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "new_close",
+      "texture": "7bBqncT7xIM5XPSLNOJha8",
+      "rect": [
+        133,
+        0,
+        133,
+        144
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        133,
+        144
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_new",
+      "texture": "7bBqncT7xIM5XPSLNOJha8",
+      "rect": [
+        0,
+        0,
+        133,
+        144
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        133,
+        144
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

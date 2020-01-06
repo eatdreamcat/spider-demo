@@ -1,0 +1,68 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "icon_time",
+      "texture": "fd7InYXAtNupF/QmP78qTI",
+      "rect": [
+        0,
+        0,
+        63,
+        63
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        63
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "icon_time.plist",
+    "_spriteFrames": {
+      "icon_time": {
+        "__uuid__": "1dO1j//R5PkLFqSo1kbti5"
+      },
+      "icon_time_2": {
+        "__uuid__": "83vvvlIxlELqYSdb+cbfNk"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "icon_time_2",
+      "texture": "fd7InYXAtNupF/QmP78qTI",
+      "rect": [
+        63,
+        0,
+        63,
+        63
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        63,
+        63
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]
