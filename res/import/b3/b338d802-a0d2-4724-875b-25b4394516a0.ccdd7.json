@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "result-spider",
+    "texture": "ffd3U445pPirDs5vTSTp8B",
+    "rect": [
+      2,
+      2,
+      628,
+      236
+    ],
+    "offset": [
+      -196,
+      8
+    ],
+    "originalSize": [
+      1024,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
